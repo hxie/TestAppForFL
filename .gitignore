@@ -3,5 +3,4 @@ Podfile.lock
 Pods
 *.xcworkspace
 *.xcuserdatad
-xcshareddata
 build
